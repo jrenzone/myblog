@@ -1,22 +1,22 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Jren Blog
+SEOTitle: 其实与终归 | Jren Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: 445159437@qq.com
+description: "记录即思考"
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: ""              # your host, for absolute URL
 baseurl: "/myblog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
+weibo_username:     其实与终归
 zhihu_username:     huxpro
-github_username:    huxpro
+github_username:    JayRen
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#acebook_username:  huxpro
 
 
 
@@ -52,7 +52,7 @@ kramdown:
 # Duoshuo settings
 duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -68,8 +68,8 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "‘何以解忧，唯有暴富’"
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -81,20 +81,4 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 # Friends
 friends: [
-    {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
 ]
