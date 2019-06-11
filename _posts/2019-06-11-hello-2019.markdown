@@ -4,7 +4,7 @@ title:      "Welcome to Jren Blog"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2019-06-10 12:00:00
 author:     "Jren"
-header-img: ""
+header-img: "img"
 tags:
     - 生活
 ---
